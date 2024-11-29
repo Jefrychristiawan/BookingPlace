@@ -38,3 +38,8 @@ Airbnc uses **Tailwind CSS** to provide a modern and responsive design, ensuring
    cd client
    npm install
    npm run dev
+   Click the link that show using ctrl + Click
+
+## Login Data (For Testing Purposes)
+email: testingpurposes@gmail.com
+password: testingpurposes@gmail.com
