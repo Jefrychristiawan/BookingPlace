@@ -42,4 +42,4 @@ Airbnc uses **Tailwind CSS** to provide a modern and responsive design, ensuring
 
 ## Login Data (For Testing Purposes)
 email: testingpurposes@gmail.com
-password: testingpurposes@gmail.com
+password: testingpurposes
